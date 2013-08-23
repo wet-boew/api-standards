@@ -1,4 +1,4 @@
-# White House Web API Standards
+# Canadian Government's Web API Standards Proposal
 
 * [Guidelines](#guidelines)
 * [Pragmatic REST](#pragmatic-rest)
